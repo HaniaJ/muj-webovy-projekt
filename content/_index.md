@@ -1,5 +1,5 @@
 ---
-title: Home
+title: K-pop
 ---
 
 **Popis co to K-pop je. Cim se zabyva, jak si talentove agentury hledaji nove idoly. 
