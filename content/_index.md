@@ -2,26 +2,17 @@
 title: Home
 ---
 
-# Hello World! (It works!)
+**Popis co to K-pop je. Cim se zabyva, jak si talentove agentury hledaji nove idoly. 
+Jaka pravidla plati v ruznych spolecnostech pro idoly.**
 
-This are the contents of the Hugo start website front page.
+K-pop je jihokorejsky hudebni smer, ktery v sobe obsahuje prvky z nekolika hudebnich smeru. 
+Jde o klucici, divci i smisene skupiny a solo umelce. Kazda skupina ma sveho leadra a maknae - nejmladsi clen.  
+Umelci vystupuji pod talentovymi agenturami za podminek stanovenych danou agenturou. 
+K-pop se stava celosvetove znamy diky choreografiim a dobre zpracovanymi videoklipy. 
+Nejznamnejsi celosvetovou K-pop skupinou je BTS, diky ktere se tento hudebni styl vice zviditelnil a rozsiril.
 
-## Something to read: Sonnet LXVI.
-
-> *Tired with all these, for restful death I cry,  
-> As to behold desert a beggar born,  
-> And needy nothing trimm'd in jollity,  
-> And purest faith unhappily forsworn,  
-> And gilded honour shamefully misplaced,  
-> And maiden virtue rudely strumpeted,  
-> And right perfection wrongfully disgraced,  
-> And strength by limping sway disabled  
-> And art made tongue-tied by authority,  
-> And folly, doctor-like, controlling skill,  
-> And simple truth miscalled simplicity,  
-> And captive good attending captain ill:  
-> Tired with all these, from these would I be gone,  
-> Save that, to die, I leave my love alone.*
-> 
-> William Shakespeare
+### Zdroje:
+https://cs.wikipedia.org/wiki/K-pop<br>
+https://kprofiles.com/<br>
+https://www.urbandictionary.com/define.php?term=K-pop
 
