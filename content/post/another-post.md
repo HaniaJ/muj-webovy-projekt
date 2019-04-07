@@ -1,19 +1,13 @@
 ---
-title: All albums of The Beatles
-date: 2018-03-15
+title: Korean music
+date: 2019-04-07
 tags: 
-    - beatles
-    - data
+    - korean
+    - music
 ---
+<iframe src="https://www.britannica.com/art/Korean-music" width="640" height="480"></iframe>
 
-This is just another post. And it illustrates a mighty functionality.
+## Důvod vybrání tohoto článku:
 
-<!--more-->
-
-See how to include data inside your posts:
-
-## Beatles Discography
-
-{{< beatles >}}
-
-You can find the data in `data/The_Beatles/discography.yml` and the template used to display it in `layouts/shortcodes/beatles.html`.
+Tento článek jsem si vybrala, protože ukazuje historii korejské hudby a zároveň její vývoj. 
+K tématu seminární práce Tajemství K-popu se hodí, protože se K-pop postupem času vyvinul a inspiroval z tradiční korejské hudby.
