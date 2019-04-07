@@ -5,7 +5,7 @@ tags:
     - korean
     - music
 ---
-<iframe src="https://www.britannica.com/art/Korean-music" width="640" height="480"></iframe>
+<iframe src="https://www.britannica.com/art/Korean-music/embed/" width="612" height="710" frameborder="0" scrolling="true" allowtransparency="true"></iframe>
 
 ## Důvod vybrání tohoto článku:
 
